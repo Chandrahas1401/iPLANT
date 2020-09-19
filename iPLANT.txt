@@ -1,0 +1,5 @@
+This is an ML project which detects the plant disease occured to the plant.
+It uses RGB values to calculate the weigths and image difference using pixel size, it distributes 
+the weights and we use convolution 2D for creating layers.
+The dataset has been taken from the Kaggle.
+Keras are used for creating the mathematical equations for the calculation of weigths.  
